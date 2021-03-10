@@ -1,0 +1,24 @@
+TRANSLATION "eng"
+BEGIN
+	"_vbook_detail" = "VBook is a reader with special support for chinese.\n\n" \
+		"VBook is freeware.\n\n" \
+		"SysZLib.prc\nCopyright \xa9 1995-1998 Jean-loup Gailly."
+
+	"_sys_inco_message" = "System Version ^1  or greater is required to run this application."
+	"_exp_card_message" = "No expansion slot exist or not inserted!"
+	"_miss_zlib_message" = "This book was compressed with ZLib, please install SysZLib.prc first."
+	"_new_name_message" = "There're too many categories, please delete some first."
+	"_inv_sel_message" = "Please select a book and try again."
+	"_del_book_message" = "Permanently delete the selected book(s)?"
+	"_inv_doc_message" = "Invalid or Null Palm document."
+	"_reged_message" = "You are registered."
+	"_reg_error" = "Register code error!"
+	"_reg_thank" = "Thank you for register!"
+	"_del_bookmarks" = "Are you sure to delete all bookmarks?"
+	"_sync_info" = "This function will remove unneeded information to save space.\n" \
+		"If you have expansion card inserted, don't remove it.\nIt will take a several seconds to finish."
+	"_need_reg" = "Only registered version has this function."
+	"_welcome" = "Welcome to use VBook!\nYou could trial it in 20 days. hope you like it!"
+	"_expired" = "Already expired.\nVBook will running in limited mode.\nPlease register if you like."
+	"_reg_hint" = "Tap help for details."
+END
